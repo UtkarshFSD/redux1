@@ -1,0 +1,3 @@
+const searchPic =(state,action)=>{
+    
+}
